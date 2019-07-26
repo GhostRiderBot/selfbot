@@ -21,10 +21,10 @@ cl.log("Auth Token : " + str(cl.authToken))
 
 #=============================================================#
 oepoll = OEPoll(cl)
-creator = ["uf7801e5f56e4bdd6f9aba5cc5c7a0313"]
-owner = ["uf7801e5f56e4bdd6f9aba5cc5c7a0313"]
-admin = ["uf7801e5f56e4bdd6f9aba5cc5c7a0313"]
-staff = ["uf7801e5f56e4bdd6f9aba5cc5c7a0313"]
+creator = ["uc796c5f7c2558d04bf32dfc4b214eb87"]
+owner = ["uc796c5f7c2558d04bf32dfc4b214eb87"]
+admin = ["uc796c5f7c2558d04bf32dfc4b214eb87"]
+staff = ["uc796c5f7c2558d04bf32dfc4b214eb87"]
 clientMid = cl.profile.mid
 clientProfile = cl.getProfile()
 clientSettings = cl.getSettings()
